@@ -1,0 +1,55 @@
+html {
+    font-family: monospace;
+}
+
+h1 {
+color: olivedrab;
+font-family: fantasy;
+text-align: center;
+font-weight: 900;
+
+} 
+img {
+    margin: 5px;
+}
+
+li {
+    color: indianred;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: 900;
+}
+h2 {
+    color: green;
+    font-size: x-large;
+    font-weight: 600;
+}
+h3 {
+    color: green;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+h4 {
+    color: seagreen;
+    font-size: x-large;
+    text-align: left;
+    font-weight: 600;
+}
+h6 {
+    color: indianred;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+b {
+    color: indianred;
+    font-weight: 600;
+    font-size: x-large;
+    text-align: justify;
+}
+p {
+    text-align: left;
+    font-weight: 600;
+    font-size: x-large;
+}
